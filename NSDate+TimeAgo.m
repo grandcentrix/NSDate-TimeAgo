@@ -7,8 +7,7 @@
 @implementation NSDate (TimeAgo)
 
 #ifndef NSDateTimeAgoLocalizedStrings
-#define NSDateTimeAgoLocalizedStrings(key) \
-    NSLocalizedStringFromTable(key, @"NSDateTimeAgo", nil)
+#define NSDateTimeAgoLocalizedStrings(key) [key languageSelectedStringForKey:@"NSDateTimeAgo"]
 #endif
 
 - (NSString *)timeAgo 
