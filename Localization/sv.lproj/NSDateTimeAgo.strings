@@ -26,7 +26,7 @@
 "An hour ago" = "en timme sedan";
 
 /* No comment provided by engineer. */
-"Just now" = "nyss";
+"Just now" = "just nu";
 
 /* No comment provided by engineer. */
 "Last month" = "förra månaden";
@@ -39,3 +39,33 @@
 
 /* No comment provided by engineer. */
 "Yesterday" = "i går";
+
+/* No comment provided by engineer. */
+"1 year ago" = "1 år sedan";
+
+/* No comment provided by engineer. */
+"1 month ago" = "1 månad sedan";
+
+/* No comment provided by engineer. */
+"1 week ago" = "1 vecka sedan";
+
+/* No comment provided by engineer. */
+"1 day ago" = "1 dag sedan";
+
+/* No comment provided by engineer. */
+"This morning" = "i morse";
+
+/* No comment provided by engineer. */
+"This afternoon" = "i eftermiddag";
+
+/* No comment provided by engineer. */
+"Today" = "i dag";
+
+/* No comment provided by engineer. */
+"This week" = "den här veckan";
+
+/* No comment provided by engineer. */
+"This month" = "den här månaden";
+
+/* No comment provided by engineer. */
+"This year" = "i år";

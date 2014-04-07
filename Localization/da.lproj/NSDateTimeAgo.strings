@@ -1,44 +1,44 @@
 /* No comment provided by engineer. */
- "%d days ago" = "%d dage siden";
- 
- /* No comment provided by engineer. */
- "%d hours ago" = "%d timer siden";
- 
- /* No comment provided by engineer. */
- "%d minutes ago" = "%d minutter siden";
- 
- /* No comment provided by engineer. */
- "%d months ago" = "%d måneder siden";
- 
- /* No comment provided by engineer. */
- "%d seconds ago" = "%d sekunder siden";
- 
- /* No comment provided by engineer. */
- "%d weeks ago" = "%d uger siden";
- 
- /* No comment provided by engineer. */
- "%d years ago" = "%d år siden";
- 
- /* No comment provided by engineer. */
- "A minute ago" = "Et minut siden";
- 
- /* No comment provided by engineer. */
- "An hour ago" = "En time siden";
- 
-/* No comment provided by engineer. */
-"Just now" = "Lige nu";
+"%d days ago" = "%d dage siden";
 
 /* No comment provided by engineer. */
-"Last month" = "Sidste måned";
+"%d hours ago" = "%d timer siden";
 
 /* No comment provided by engineer. */
-"Last week" = "Sidste uge";
+"%d minutes ago" = "%d minutter siden";
 
 /* No comment provided by engineer. */
-"Last year" = "Sidste år";
+"%d months ago" = "%d måneder siden";
 
 /* No comment provided by engineer. */
-"Yesterday" = "I går";
+"%d seconds ago" = "%d sekunder siden";
+
+/* No comment provided by engineer. */
+"%d weeks ago" = "%d uger siden";
+
+/* No comment provided by engineer. */
+"%d years ago" = "%d år siden";
+
+/* No comment provided by engineer. */
+"A minute ago" = "et minut siden";
+
+/* No comment provided by engineer. */
+"An hour ago" = "en time siden";
+
+/* No comment provided by engineer. */
+"Just now" = "lige nu";
+
+/* No comment provided by engineer. */
+"Last month" = "sidste måned";
+
+/* No comment provided by engineer. */
+"Last week" = "sidste uge";
+
+/* No comment provided by engineer. */
+"Last year" = "sidste år";
+
+/* No comment provided by engineer. */
+"Yesterday" = "i går";
 
 /* No comment provided by engineer. */
 "1 year ago" = "1 år siden";
@@ -53,19 +53,19 @@
 "1 day ago" = "1 dag siden";
 
 /* No comment provided by engineer. */
-"This morning" = "Her til morgen";
+"This morning" = "her til morgen";
 
 /* No comment provided by engineer. */
-"This afternoon" = "Her til eftermiddag";
+"This afternoon" = "her til eftermiddag";
 
 /* No comment provided by engineer. */
-"Today" = "I dag";
+"Today" = "i dag";
 
 /* No comment provided by engineer. */
-"This week" = "Denne uge";
+"This week" = "denne uge";
 
 /* No comment provided by engineer. */
-"This month" = "Denne måned";
+"This month" = "denne måned";
 
 /* No comment provided by engineer. */
-"This year" = "Dette år";
+"This year" = "dette år";

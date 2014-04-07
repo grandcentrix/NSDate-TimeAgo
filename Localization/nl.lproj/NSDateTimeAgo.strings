@@ -20,22 +20,52 @@
 "%d years ago" = "%d jaar geleden";
 
 /* No comment provided by engineer. */
-"A minute ago" = "Een minuut geleden";
+"A minute ago" = "een minuut geleden";
 
 /* No comment provided by engineer. */
-"An hour ago" = "Een uur geleden";
+"An hour ago" = "een uur geleden";
 
 /* No comment provided by engineer. */
-"Just now" = "Zojuist";
+"Just now" = "zojuist";
 
 /* No comment provided by engineer. */
-"Last month" = "Vorige maand";
+"Last month" = "vorige maand";
 
 /* No comment provided by engineer. */
-"Last week" = "Vorige week";
+"Last week" = "vorige week";
 
 /* No comment provided by engineer. */
-"Last year" = "Vorig jaar";
+"Last year" = "vorig jaar";
 
 /* No comment provided by engineer. */
-"Yesterday" = "Gisteren";
+"Yesterday" = "gisteren";
+
+/* No comment provided by engineer. */
+"1 year ago" = "1 jaar geleden";
+
+/* No comment provided by engineer. */
+"1 month ago" = "1 maand geleden";
+
+/* No comment provided by engineer. */
+"1 week ago" = "1 week geleden";
+
+/* No comment provided by engineer. */
+"1 day ago" = "1 dag geleden";
+
+/* No comment provided by engineer. */
+"This morning" = "vanmorgen";
+
+/* No comment provided by engineer. */
+"This afternoon" = "vanmiddag";
+
+/* No comment provided by engineer. */
+"Today" = "vandaag";
+
+/* No comment provided by engineer. */
+"This week" = "deze week";
+
+/* No comment provided by engineer. */
+"This month" = "deze maand";
+
+/* No comment provided by engineer. */
+"This year" = "dit jaar";
